@@ -1,0 +1,14 @@
+/* .firstsong{
+  width:50%;
+  height:50%;
+} */
+.head {
+  text-align:center;
+}
+body {
+  background-color:#FFF8E7;
+}
+.inputBoxes {
+  display:flex;
+  align-contect:center;
+}
